@@ -1,0 +1,7 @@
+body {
+  background-image: (
+    'https://nypost.com/wp-content/uploads/sites/2/2020/12/Outside-The-Box-Tyson-1.jpg?quality=75&strip=all'
+  );
+  background-position: center;
+  background-attachment: fixed;
+}

@@ -1,0 +1,16 @@
+🏋️ Exercise: HTML layout elements & basic CSS
+In this exercise, you will build a tribute page of someone you admire in your life.
+
+
+🛠 Requirements
+On the top of the page, add the image and name of the person.
+Below that give the layout for the rest of the details. You can use paragraphs, lists, links, images, etc.
+Use CSS to round the image.
+Add a suitable background color and font style to your webpage.
+Most of the parts you can make using HTML but to give it a better look use a bit of CSS.
+Post a screenshot of your finished exercise in the #post-your-exercises channel on Discord
+
+
+🏆 Extra Credit:
+Style the unordered list
+Remove the bullet points and add a nice looking border to each row.
