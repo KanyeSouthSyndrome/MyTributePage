@@ -1,7 +1,22 @@
 body {
-  background-image: (
-    'https://nypost.com/wp-content/uploads/sites/2/2020/12/Outside-The-Box-Tyson-1.jpg?quality=75&strip=all'
-  );
+  background-color: maroon;
   background-position: center;
   background-attachment: fixed;
+  text-align: center;
+  color: white;
+}
+h1,
+figcaption {
+  text-decoration: overline;
+}
+.HeaderImage {
+  width: 200px;
+  height: 200px;
+  border: 8px solid black;
+  border-radius: 30%;
+}
+.ScrollingOverflow {
+  max-height: 200px;
+  overflow: scroll;
+  border: 3px ridge white;
 }
